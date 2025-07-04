@@ -22,9 +22,6 @@ Cloud & Edge Computing
 ## 🚀 Tech Stack:
 Python | C++ | JavaScript | React | Node.js | SQL | Azure | Git | Linux
 
-## ✨ Let’s Connect:
-💼 LinkedIn (https://www.linkedin.com/in/tvisha-bansal-463a492ba/)
-
 ### "I code to create, I learn to grow, and I build to inspire."
 
 
